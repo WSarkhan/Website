@@ -1,11 +1,9 @@
-import "./index.css";
-
 function App() {
   return (
     <>
-      <p className="h2 text-9xl">Website</p>
+      <p>Website Test</p>
     </>
-  );
+  )
 }
 
-export default App;
+export default App
